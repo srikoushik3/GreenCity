@@ -1,0 +1,20 @@
+
+Graphs for Toronto City Consumption
+
+Top 10 graphs
+ - Top 10 GHG vs. Address (legend for 'Comments'-usage category)
+ - Top 10 Annual Flow (Water Usage) vs. Address ( ^ same legend)
+ - Electricity
+ - Natural Gas
+ - Energy Intensity
+
+
+
+
+Sub-Categories Considering:
+(with two goals and corresponding numeric outputs for each)
+ 1. GHG
+ 2. Energy Intensity (ekWh/sq. feet)
+ 3. Electricity
+ 4. Natural Gas
+ 5. Water
